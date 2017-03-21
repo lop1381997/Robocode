@@ -1,0 +1,2 @@
+# Robocode
+autoaim robot
